@@ -15,6 +15,7 @@ supported this effort, no one from the physics department.
 
 ** PDFs
 
+1. Maxwell source equation derivation [1 page](Maxwell_by_hand.pdf)
 1. Colorful pictures of equivalence classes [10 pages](equivalence_classes_summary.pdf)
 1. Quaternion gravity proposal in [2 pages](quaternion_gravity_in_2_pages.pdf)
 1. Detailed calculation of the precession of the perihelion of Mercury [4 pages](precession.pdf)
