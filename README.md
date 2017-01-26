@@ -55,3 +55,6 @@ Redbubble t-shirts:
 Patreon (support $1-2/month):
 [dougsweetser](https://www.patreon.com/dougsweetser) Playing in Space-time:
 Research through Outreach. Patreons/pledges: 1/$4
+
+Paypal: sweetser@alum.mit.edu or
+[cash.me/$VisualPhysics](https://cash.me/$VisualPhysicscash.me/$VisualPhysics)
