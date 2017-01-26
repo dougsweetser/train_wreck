@@ -6,14 +6,14 @@ Documents of interest for my presentation with the same title given for the
 MIT Independent Activities Period (IAP). Note: only the Alumni Association
 supported this effort, no one from the physics department.
 
-** Quaternion URLs
+## Quaternion URLs
 
 1. Quaternion Gravity [intro](http://bit.ly/vp-qg)
 1. Quaternion Gravity [videos](http://bit.ly/vp-qg-videos)
 1. iPython notebook analyzing an 8 ball shot with [space-time numbers](http://bit.ly/vp-billiards)
 1. Main Quaternions.com [site](http://bit.ly/vp-q) 
 
-** PDFs
+## PDFs
 
 1. Maxwell source equation derivation [1 page](Maxwell_by_hand.pdf)
 1. Colorful pictures of equivalence classes [10 pages](equivalence_classes_summary.pdf)
@@ -23,7 +23,7 @@ supported this effort, no one from the physics department.
 Preliminary work to define quaternion quantum field thoery, including the
 Schrodinger equation, the Klein-Gordon equation and the Dirac equation [8 pages] quaternion_quantum_field_theory.pdf
 
-** YouTube Videos
+## YouTube Videos
 
 Simple harmonic oscillators [3
 minutes](https://www.youtube.com/watch?v=efYhDxm1m-g&index=1&list=PL5D_p8q0VLMGW0_-1i2UbzI-cuiIVI8Xf&t=83s)
