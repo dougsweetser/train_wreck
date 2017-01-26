@@ -27,10 +27,13 @@ Schrodinger equation, the Klein-Gordon equation and the Dirac equation [8 pages]
 
 Simple harmonic oscillators [3
 minutes](https://www.youtube.com/watch?v=efYhDxm1m-g&index=1&list=PL5D_p8q0VLMGW0_-1i2UbzI-cuiIVI8Xf&t=83s)
+
 Young's double slit experiment [7
 minutes](https://www.youtube.com/watch?v=CN-wjj_phVA&index=4&list=PL5D_p8q0VLMGW0_-1i2UbzI-cuiIVI8Xf&t=28s)
+
 Is this what quantum mechanics looks like? [7
 minutes](https://www.youtube.com/watch?v=WIyTZDHuarQ&index=3&list=PL5D_p8q0VLMGW0_-1i2UbzI-cuiIVI8Xf&t=17s)
+
 The Map of Physics [8
 minutes](https://www.youtube.com/watch?v=ZihywtixUYo&index=2&list=PL5D_p8q0VLMGW0_-1i2UbzI-cuiIVI8Xf&t=12s)
 
