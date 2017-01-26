@@ -56,5 +56,5 @@ Patreon (support $1-2/month):
 [dougsweetser](https://www.patreon.com/dougsweetser) Playing in Space-time:
 Research through Outreach. Patreons/pledges: 1/$4
 
-Paypal: sweetser@alum.mit.edu or
-[cash.me/$VisualPhysics](https://cash.me/$VisualPhysicscash.me/$VisualPhysics)
+Cash money via paypal: sweetser@alum.mit.edu, gmail to dougsweetser@gmail.com, or
+[square's cash.me](https://cash.me/$VisualPhysicscash.me/$VisualPhysics)
